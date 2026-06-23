@@ -1,9 +1,0 @@
-# pin on the box; these are known-compatible-ish as of 2026-06
-trl>=0.15
-transformers>=4.48
-vllm>=0.7
-datasets>=2.19
-accelerate>=1.0
-scipy>=1.11
-matplotlib>=3.8
-numpy>=1.26
