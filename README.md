@@ -4,7 +4,7 @@
 
 Worked solution to the **Inference-Time Compute Hackathon (Applied AI Track)**.
 Full problem statement: [`docs/problem-statement.pdf`](docs/problem-statement.pdf) · author: James Moore.
-Open questions I'm working through: [`QUESTIONS.md`](QUESTIONS.md).
+Open questions I'm working through: [`QUESTIONS.md`](QUESTIONS.md) · relevant literature: [`PAPERS.md`](PAPERS.md).
 
 ## The problem
 

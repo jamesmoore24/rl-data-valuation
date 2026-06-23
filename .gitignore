@@ -15,3 +15,7 @@ metric_vs_lift.png
 
 # os
 .DS_Store
+
+# obsidian (this repo doubles as a vault; keep local vault config/cache out of git)
+.obsidian/
+.trash/
