@@ -1,0 +1,17 @@
+# python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# experiment outputs (regenerated; keep them out of git history)
+data/
+runs/
+results/
+out/
+*.safetensors
+wandb/
+metric_vs_lift.png
+
+# os
+.DS_Store
