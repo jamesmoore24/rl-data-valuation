@@ -6,6 +6,16 @@ Status key: 🔴 open · 🟡 partial · 🟢 answered
 
 ---
 
+## 0. Setup decisions (the first forks)
+- 🔴 **What model should we post-train, and why?**
+  - A:
+- 🔴 **What domain(s) should we post-train this model on, and why?**
+  - A:
+- 🔴 **What harness should we use to roll out and evaluate our model?**
+  - A:
+- 🔴 **What rubrics and benchmarks should we use, and why?**
+  - A:
+
 ## 1. Problem framing
 - 🔴 **What exactly is "lift" here, and at what altitude?** Per-task Δaccuracy, or dataset-level Δbenchmark? `acc_after − acc_before` on a held-out benchmark — but held-out from what?
   - A:
