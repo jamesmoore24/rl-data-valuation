@@ -6,7 +6,6 @@
 - What rubrics and benchmarks should we use, and why?
 - What exactly is "lift," and at what altitude — per-task, per-trajectory, or per-dataset?
 - What decision does the metric serve — what would make a lab buy or skip a dataset?
-- Why should non-saturation / mid-difficulty predict lift?
 - Is reward variance the same signal as difficulty, or distinct?
 - Do token length / reasoning steps / branching factor add predictive power beyond difficulty?
 - Does diversity (Vendi / cosine coverage) predict lift independent of difficulty?
@@ -18,7 +17,5 @@
 - Does reward shaping (different verifiers) change lift on a fixed cohort?
 - How much of the lift delta is noise, and how many seeds / eval-n to see past it?
 - Does a variance floor measured on one benchmark transfer to other task types?
-- How many cohorts for a credible metric to lift fit?
 - How do we generate synthetic cohorts that cleanly ablate one property?
-- Is Qwen2.5-1.5B + GSM8K enough signal, or do we need a bigger model / more cohorts?
 - Do TRL and verifiers/prime-rl give the same results?

@@ -43,5 +43,4 @@ Abbas et al., 2023 — remove semantic duplicates via pre-trained embeddings; re
 
 
 ## Background
-- [A Primer on LLM Post-Training](https://pytorch.org/blog/a-primer-on-llm-post-training/) — PyTorch blog.
 - [`pass_rate` example implementation](https://pastebin.com/1Np5UuQG) — the F() reference from the problem statement.
